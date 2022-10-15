@@ -1,0 +1,23 @@
+.text-left {
+    text-align: left;
+}
+
+.form-container-main {
+    padding-right: 20px;
+}
+
+.main-form-container {
+    padding-top: 60px;
+}
+
+.banner-container {
+    padding: 60px;
+}
+
+.logo {
+    width: 100px;
+}
+
+.banner-container img {
+    margin-bottom: 20px;
+}

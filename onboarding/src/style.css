@@ -1,0 +1,24 @@
+.eden-theme,
+.eden-theme:hover,
+.eden-theme:active {
+    background-color: #664de5!important;
+    color: #ffffff;
+    border-color: #664de5!important;
+}
+
+.eden-text {
+    color: #664de5;
+}
+
+.eden-check .form-check-input:checked {
+    background-color: #664de5;
+    border-color: #664de5;
+}
+
+img {
+    width: 100%;
+}
+
+.eden-check {
+    display: inline-block;
+}

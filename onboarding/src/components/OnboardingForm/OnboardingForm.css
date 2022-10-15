@@ -1,0 +1,33 @@
+.form-heading span {
+    font-size: 14px;
+    font-weight: 500;
+    color: #8a8a8a;
+}
+
+.form-container {
+    margin-top: 30px;
+}
+
+.term-check {
+    display: inline-block;
+    margin-top: 16px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #8a8a8a;
+}
+
+.form-container h5{
+    font-size: 14px;
+    font-weight: 500;
+    color: #8a8a8a;
+    margin-top: 40px;
+    cursor: pointer;
+}
+
+.form-heading {
+    margin-top: 20px;
+}
+
+.form-dirty input{
+    border-color: red ;
+}
